@@ -10,7 +10,7 @@ Hi, I'm Saeedahamed, a student from India, currently studying Electronics and Co
 
 
 
-## I'm a Student, Father, Developer, and Teacher!!
+## I'm a Student, coder and gamer!!
 
 - 🌱 I’m currently learning about Datascience
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
@@ -60,5 +60,4 @@ Hi, I'm Saeedahamed, a student from India, currently studying Electronics and Co
 <img align="left" alt="c" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 </a>
-
-
+<br />
