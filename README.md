@@ -40,7 +40,7 @@ Hi, I'm Saeedahamed, a student from India, currently studying Electronics and Co
   <img align="left" alt="Saeed Bandi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://www.instagram.com/sahmedo7/">
+<a href="https://www.instagram.com/sahmed.b7/">
   <img align="left" alt="Saeed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
