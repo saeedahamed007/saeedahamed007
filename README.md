@@ -10,12 +10,12 @@ Hi, I'm Saeedahamed, a student from India, currently studying Electronics and Co
 
 
 
-## I'm a Student, coder and gamer!!
+## I'm a Student,gamer and AI enthusiast!!
 
 - 🌱 I’m currently learning about Datascience
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I enjoy Gaming, Travelling, and obviously Programming!
 
 ### Spotify Playing 🎧
