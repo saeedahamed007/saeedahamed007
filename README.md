@@ -8,9 +8,9 @@
 Hi, I'm Saeedahamed currently working as Software Engineer [@Visteon Corporation](https://www.visteon.com/).!
 
 
+## AutoMobile + AI = Boom ⚡⚡
 
-
-- 🌱 I’m currently learning about automobile electronics,AutoSAR.
+- 🌱 I’m currently learning about automotive electronics,AutoSAR,Deep Neural Networks.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
 - 🥅 2022 Goals: Contribute more to Open Source projects
