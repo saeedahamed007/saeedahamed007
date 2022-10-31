@@ -5,17 +5,15 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=saeedahamed007)
 
-Hi, I'm Saeedahamed, a student from India, currently studying Electronics and Communications Engineering [@KLS Gogte Institute of Technology](https://git.edu/) .!
+Hi, I'm Saeedahamed currently working as Software Engineer [@Visteon Corporation](https://www.visteon.com/).!
 
 
 
 
-## I'm a Student,gamer and AI enthusiast!!
-
-- 🌱 I’m currently learning about Datascience
+- 🌱 I’m currently learning about automobile electronics,AutoSAR.
 - 💬 Although I'm still a newbie, I am always happy to help with anything I know, ask me anything
 - 👯 I’m looking to collaborate with other here for projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact:  I enjoy Gaming, Travelling, and obviously Programming!
 
 
