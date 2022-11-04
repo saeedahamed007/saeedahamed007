@@ -5,7 +5,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=saeedahamed007)
 
-Hi, I'm Saeedahamed currently working as Software Engineer [@Visteon Corporation](https://www.visteon.com/).!
+Hi, I'm Saeedahamed currently working as Software Engineer [@Visteon Corporation](https://www.visteon.com/)
 
 
 ## AutoMobile + AI = Boom ⚡⚡
